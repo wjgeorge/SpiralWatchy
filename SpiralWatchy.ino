@@ -1,6 +1,4 @@
-#include <Arduino.h>
 #include "SpiralWatchy.h"
-
 #include "settings.h"
 
 SpiralWatchy watchy(settings);

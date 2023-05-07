@@ -1,13 +1,7 @@
 #pragma once
 
 #include <Watchy.h>
-#include "include/images.h"
-#include "include/MatCapSource.h"
 #include "Vector.h"
-#include "include/BlueNoise200.h"
-#include "include/SpiralFaceShadow.h"
-#include "include/SpiralFaceShadowCenter.h"
-#include "include/SpiralFaceWithShadow.h"
 
 class SpiralWatchy : public Watchy
 {

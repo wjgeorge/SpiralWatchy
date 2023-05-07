@@ -1,4 +1,10 @@
 #include "SpiralWatchy.h"
+#include "include/images.h"
+#include "include/MatCapSource.h"
+#include "include/BlueNoise200.h"
+#include "include/SpiralFaceShadow.h"
+#include "include/SpiralFaceShadowCenter.h"
+#include "include/SpiralFaceWithShadow.h"
 
 const float VOLTAGE_MIN = 3.5;
 const float VOLTAGE_MAX = 4.2;
